@@ -1,0 +1,620 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:2:1-147:12
+	package
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:3:5-31
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:5:5-67
+MERGED from [com.lzy.net:okgo:2.1.4] C:\Users\admin\.android\build-cache\1626c24ec692174d4b3415cb0459ce15658268da\output\AndroidManifest.xml:11:5-67
+MERGED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:6:5-84
+MERGED from [com.lzy.net:okgo:2.1.4] C:\Users\admin\.android\build-cache\1626c24ec692174d4b3415cb0459ce15658268da\output\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:6:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:7:5-81
+MERGED from [com.lzy.net:okgo:2.1.4] C:\Users\admin\.android\build-cache\1626c24ec692174d4b3415cb0459ce15658268da\output\AndroidManifest.xml:13:5-81
+MERGED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:8:5-80
+MERGED from [com.lzy.net:okgo:2.1.4] C:\Users\admin\.android\build-cache\1626c24ec692174d4b3415cb0459ce15658268da\output\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:9:5-79
+MERGED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:10:5-76
+MERGED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:11:5-75
+MERGED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:11:22-72
+application
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:13:5-145:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\admin\.android\build-cache\8e54e72336682aa288a809126bb6a2f2c9df8c85\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\admin\.android\build-cache\02660c3a952517c1b350c21c4efb37ce89268825\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\admin\.android\build-cache\64eeabdcc18ec50e7b72759b347cd8d58dd0566e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:percent:25.0.1] C:\Users\admin\.android\build-cache\19901c3291559b9d9456a7fe1227d45cf83d6ca9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\admin\.android\build-cache\3db49cbe7743c9209ff741e819681b3d9bcea3d4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] C:\Users\admin\.android\build-cache\df966554ed87937591f989bb80a3efa46bb62eb8\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\admin\.android\build-cache\4a8c1775285f8ca620cb89bf7df9950be5e3574d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\admin\.android\build-cache\461fced855d40645840d384977d65715621df447\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\admin\.android\build-cache\1935454de2142f93aa2c8e1d2d41a19f95e0a679\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\admin\.android\build-cache\cb1ff925c7f8e8430164f7f0c3054f9f77e52042\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\admin\.android\build-cache\5ef50006ae712f753e6a248b4979d6422dde9aa0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\admin\.android\build-cache\226b6dbd515dfb99401ed08661e00c7e65b7c087\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\admin\.android\build-cache\566fd8f187637236de79efcc7c61f7491e1095f6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\admin\.android\build-cache\a1c40dc7004a5f6d0ecd0bf6010bfb2e98d686e1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\admin\.android\build-cache\61d98295add5548b179b4d0d10a2793638061c47\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\admin\.android\build-cache\2f11094989ddc5a64e6d0aa0d6c4a00025f43983\output\AndroidManifest.xml:29:5-20
+MERGED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:27:5-156:19
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:15:9-40
+	android:largeHeap
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:17:9-33
+	android:theme
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:14:9-43
+meta-data#design_width
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:20:9-22:35
+	android:value
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:22:13-32
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:21:13-40
+meta-data#design_height
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:23:9-25:36
+	android:value
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:25:13-33
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:24:13-41
+activity#com.wishland.www.view.activity.WelcomeActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:27:9-40:20
+	android:clearTaskOnLaunch
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:30:13-46
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:32:13-49
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:31:13-43
+	android:alwaysRetainTaskState
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:28:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:37:27-74
+activity#com.wishland.www.view.activity.MainActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:42:9-45:61
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:45:13-49
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:44:13-43
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:43:13-55
+activity#com.wishland.www.view.activity.LoginInActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:47:9-51:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:49:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:50:13-43
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:48:13-58
+activity#com.wishland.www.view.activity.SignInActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:52:9-56:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:54:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:53:13-57
+activity#com.wishland.www.view.activity.PersonalAccountActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:57:9-61:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:61:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:59:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:58:13-66
+activity#com.wishland.www.view.activity.MessageDetailPages
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:62:9-66:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:64:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:65:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:63:13-61
+activity#com.wishland.www.view.activity.SixSpacesListAcitivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:67:9-71:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:69:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:68:13-65
+activity#com.wishland.www.view.activity.AccountBindAcitvity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:72:9-76:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:74:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:75:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:73:13-62
+activity#com.wishland.www.view.activity.LineDetailActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:77:9-81:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:81:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:79:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:78:13-61
+activity#com.wishland.www.view.activity.DetailQuestDealActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:82:9-86:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:84:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:85:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:83:13-66
+activity#com.wishland.www.view.activity.AccountRequestBankActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:87:9-91:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:89:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:90:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:88:13-69
+activity#com.wishland.www.view.activity.HomeMoreActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:92:9-96:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:96:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:94:13-31
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:95:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:93:13-59
+activity#com.wishland.www.view.activity.OnlinePaymentActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:97:9-101:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:99:13-31
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:98:13-64
+activity#com.wishland.www.view.activity.HKActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:102:9-106:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:104:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:105:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:103:13-53
+activity#com.wishland.www.view.activity.AlipayActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:108:9-112:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:112:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:110:13-34
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:111:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:109:13-57
+activity#com.wishland.www.view.activity.MessagePageActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:113:9-117:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:115:13-33
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:116:13-44
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:114:13-62
+activity#com.wishland.www.view.activity.DetailsHtmlPageActivity
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:119:9-130:20
+	android:process
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:124:13-36
+	android:label
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:122:13-36
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:123:13-43
+	android:configChanges
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:121:13-74
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:120:13-66
+intent-filter#android.intent.category.DEFAULT+com.weinisi.www.html
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:125:13-129:29
+action#com.weinisi.www.html
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:126:17-63
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:126:25-60
+category#android.intent.category.DEFAULT
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:128:17-76
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:128:27-73
+activity#com.wishland.www.view.activity.MainActivity2
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:131:9-134:52
+	android:screenOrientation
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:134:13-49
+	android:launchMode
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:133:13-43
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:132:13-56
+meta-data#UMENG_CHANNEL
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:136:9-138:54
+	android:value
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:138:13-51
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:137:13-41
+meta-data#UMENG_APPKEY
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:139:9-141:66
+	android:value
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:141:13-53
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:140:13-40
+meta-data#UMENG_MESSAGE_SECRET
+ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:142:9-144:74
+	android:value
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:144:13-61
+	android:name
+		ADDED from E:\02Android\新架构\wishland\app\AndroidManifest.xml:143:13-48
+uses-sdk
+INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.hotchemi:permissionsdispatcher:2.4.0] C:\Users\admin\.android\build-cache\5e1bfd75b3b973424f89dee3351c1c0897b7835a\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.zhy:autolayout:1.4.5] C:\Users\admin\.android\build-cache\8465db3cd4c2134296c9255b80001dc0857315c8\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\admin\.android\build-cache\7ce9749c9e59f404a379595fd2a8e0029d55920c\output\AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\admin\.android\build-cache\2f70c4307aca1f252e841efc1fbe6c61692791f8\output\AndroidManifest.xml:19:5-43
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.5.0] C:\Users\admin\.android\build-cache\f03dd4db1ed4c50515988fdbf48b8b114ba21e90\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.5.0] C:\Users\admin\.android\build-cache\7f4f66a74e08ee7f6ae16a0db350bd86c46ad6b8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.5.0] C:\Users\admin\.android\build-cache\0626a72babea064ca30d3d3bf8210333e23c5062\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:0.12.0] C:\Users\admin\.android\build-cache\f5b00a8a61b8dfb4b9ab91b28d6c2852680b44ca\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:0.12.0] C:\Users\admin\.android\build-cache\19faaf67a42af4b537eb7bf1cb692e6641f4e3dc\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.5.0] C:\Users\admin\.android\build-cache\37ef59a6ddd1aee7c35b9a2d2264efb3c48c5c67\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.5.0] C:\Users\admin\.android\build-cache\a3c0224fdb2305d873969c1c22cb4bbced57c13e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.5.0] C:\Users\admin\.android\build-cache\9d27831d79ccc1e3c1d0c1cdbbea13285c5c41cb\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\admin\.android\build-cache\8e54e72336682aa288a809126bb6a2f2c9df8c85\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.liouhuan:FlexSlider:1.0] C:\Users\admin\.android\build-cache\2555db7d2290a6ac54c9cfeedac41fdfe51d3293\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.0.1] C:\Users\admin\.android\build-cache\02660c3a952517c1b350c21c4efb37ce89268825\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.0.1] C:\Users\admin\.android\build-cache\64eeabdcc18ec50e7b72759b347cd8d58dd0566e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:25.0.1] C:\Users\admin\.android\build-cache\19901c3291559b9d9456a7fe1227d45cf83d6ca9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\admin\.android\build-cache\3db49cbe7743c9209ff741e819681b3d9bcea3d4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] C:\Users\admin\.android\build-cache\df966554ed87937591f989bb80a3efa46bb62eb8\output\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\admin\.android\build-cache\4a8c1775285f8ca620cb89bf7df9950be5e3574d\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\admin\.android\build-cache\d57afb821692321136872800046473f2a1a8f01f\output\AndroidManifest.xml:20:5-43
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.0] C:\Users\admin\.android\build-cache\bfdbae41b94440ba9db0553ff84635ee5859b9b4\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.lzy.net:okgo:2.1.4] C:\Users\admin\.android\build-cache\1626c24ec692174d4b3415cb0459ce15658268da\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wanjian:cockroach:0.0.5] C:\Users\admin\.android\build-cache\66dea1ddd17a15d07b58fd7c3bf99f61d289a458\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\admin\.android\build-cache\461fced855d40645840d384977d65715621df447\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\admin\.android\build-cache\1935454de2142f93aa2c8e1d2d41a19f95e0a679\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\admin\.android\build-cache\cb1ff925c7f8e8430164f7f0c3054f9f77e52042\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\admin\.android\build-cache\5ef50006ae712f753e6a248b4979d6422dde9aa0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\admin\.android\build-cache\226b6dbd515dfb99401ed08661e00c7e65b7c087\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\admin\.android\build-cache\566fd8f187637236de79efcc7c61f7491e1095f6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\admin\.android\build-cache\a1c40dc7004a5f6d0ecd0bf6010bfb2e98d686e1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\admin\.android\build-cache\61d98295add5548b179b4d0d10a2793638061c47\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\admin\.android\build-cache\2f11094989ddc5a64e6d0aa0d6c4a00025f43983\output\AndroidManifest.xml:21:5-23:58
+MERGED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\admin\.android\build-cache\02660c3a952517c1b350c21c4efb37ce89268825\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+		INJECTED from E:\02Android\新架构\wishland\app\AndroidManifest.xml
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\admin\.android\build-cache\8e54e72336682aa288a809126bb6a2f2c9df8c85\output\AndroidManifest.xml:12:9-14:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\admin\.android\build-cache\8e54e72336682aa288a809126bb6a2f2c9df8c85\output\AndroidManifest.xml:14:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\admin\.android\build-cache\8e54e72336682aa288a809126bb6a2f2c9df8c85\output\AndroidManifest.xml:13:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\admin\.android\build-cache\4a8c1775285f8ca620cb89bf7df9950be5e3574d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\admin\.android\build-cache\d57afb821692321136872800046473f2a1a8f01f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\admin\.android\build-cache\461fced855d40645840d384977d65715621df447\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\admin\.android\build-cache\1935454de2142f93aa2c8e1d2d41a19f95e0a679\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\admin\.android\build-cache\cb1ff925c7f8e8430164f7f0c3054f9f77e52042\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\admin\.android\build-cache\5ef50006ae712f753e6a248b4979d6422dde9aa0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\admin\.android\build-cache\226b6dbd515dfb99401ed08661e00c7e65b7c087\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\admin\.android\build-cache\566fd8f187637236de79efcc7c61f7491e1095f6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\admin\.android\build-cache\a1c40dc7004a5f6d0ecd0bf6010bfb2e98d686e1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\admin\.android\build-cache\61d98295add5548b179b4d0d10a2793638061c47\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\admin\.android\build-cache\2f11094989ddc5a64e6d0aa0d6c4a00025f43983\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\admin\.android\build-cache\4a8c1775285f8ca620cb89bf7df9950be5e3574d\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\admin\.android\build-cache\4a8c1775285f8ca620cb89bf7df9950be5e3574d\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.BROADCAST_PACKAGE_ADDED
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:17:5-82
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:17:22-79
+uses-permission#android.permission.BROADCAST_PACKAGE_CHANGED
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:18:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_INSTALL
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:19:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_REPLACED
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:5-85
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:22-82
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:25:5-76
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:25:22-73
+service#com.taobao.accs.ChannelService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:28:9-38:19
+	android:process
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:31:13-39
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:29:13-58
+intent-filter#com.taobao.accs.intent.action.SERVICE
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:32:13-34:29
+action#com.taobao.accs.intent.action.SERVICE
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:33:25-77
+intent-filter#com.taobao.accs.intent.action.ELECTION
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:35:13-37:29
+action#com.taobao.accs.intent.action.ELECTION
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:36:25-78
+service#com.taobao.accs.data.MsgDistributeService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:39:9-45:19
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:40:13-69
+intent-filter#com.taobao.accs.intent.action.RECEIVE
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:42:13-44:29
+action#com.taobao.accs.intent.action.RECEIVE
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:43:17-80
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:43:25-77
+receiver#com.taobao.accs.EventReceiver
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:47:9-64:20
+	android:process
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:49:13-39
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:48:13-57
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:50:13-52:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:51:17-79
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:51:25-76
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:53:13-55:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:54:25-76
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:56:13-60:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:57:17-80
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:57:25-77
+data
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:59:17-50
+	android:scheme
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:59:23-47
+intent-filter#android.intent.action.USER_PRESENT
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:61:13-63:29
+action#android.intent.action.USER_PRESENT
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:62:25-74
+receiver#com.taobao.accs.ServiceReceiver
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:65:9-74:20
+	android:process
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:67:13-39
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:66:13-59
+intent-filter#com.taobao.accs.intent.action.COMMAND
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:68:13-70:29
+action#com.taobao.accs.intent.action.COMMAND
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:69:17-80
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:69:25-77
+intent-filter#com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:71:13-73:29
+action#com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:72:17-88
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:72:25-85
+service#com.taobao.accs.ChannelService$KernelService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:76:9-78:42
+	android:process
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:78:13-39
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:77:13-72
+service#org.android.agoo.accs.AgooService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:79:9-85:19
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:81:13-36
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:80:13-61
+service#com.umeng.message.UmengIntentService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:86:9-93:19
+	android:process
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:89:13-39
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:88:13-36
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:87:13-64
+intent-filter#org.agoo.android.intent.action.RECEIVE
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:90:13-92:29
+action#org.agoo.android.intent.action.RECEIVE
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:91:17-81
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:91:25-78
+service#com.umeng.message.XiaomiIntentService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:94:9-101:19
+	android:process
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:97:13-39
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:96:13-36
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:95:13-65
+receiver#com.taobao.agoo.AgooCommondReceiver
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:103:9-115:20
+	android:process
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:106:13-39
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:105:13-36
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:104:13-63
+intent-filter#com.wanhaohui.www.intent.action.COMMAND
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:107:13-109:29
+action#com.wanhaohui.www.intent.action.COMMAND
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:108:17-82
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:108:25-79
+service#com.umeng.message.UmengMessageIntentReceiverService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:117:9-124:19
+	android:process
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:120:13-39
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:119:13-36
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:118:13-79
+intent-filter#org.android.agoo.client.MessageReceiverService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:121:13-123:29
+action#org.android.agoo.client.MessageReceiverService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:122:17-89
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:122:25-86
+receiver#com.umeng.message.NotificationProxyBroadcastReceiver
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:126:9-128:40
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:127:13-80
+service#com.umeng.message.UmengMessageCallbackHandlerService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:130:9-145:19
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:132:13-37
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:131:13-80
+intent-filter#com.umeng.messge.registercallback.action
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:133:13-135:29
+action#com.umeng.messge.registercallback.action
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:134:17-83
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:134:25-80
+intent-filter#com.umeng.message.enablecallback.action
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:136:13-138:29
+action#com.umeng.message.enablecallback.action
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:137:17-82
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:137:25-79
+intent-filter#com.umeng.message.disablecallback.action
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:139:13-141:29
+action#com.umeng.message.disablecallback.action
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:140:17-83
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:140:25-80
+intent-filter#com.umeng.message.message.handler.action
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:142:13-144:29
+action#com.umeng.message.message.handler.action
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:143:17-83
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:143:25-80
+service#com.umeng.message.UmengDownloadResourceService
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:146:9-148:40
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:148:13-37
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:147:13-74
+provider#com.umeng.message.provider.MessageProvider
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:150:9-155:20
+	android:authorities
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:152:13-65
+	android:exported
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:153:13-37
+	android:name
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:151:13-70
+grant-uri-permission
+ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:154:13-62
+	android:pathPattern
+		ADDED from [wishland:PushSDK:unspecified] E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:154:35-59

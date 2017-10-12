@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\incremental\\mergePlatform_wnsDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 51,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 51,
+                        "endOffset": 144
+                    }
+                }
+            }
+        ]
+    }
+]

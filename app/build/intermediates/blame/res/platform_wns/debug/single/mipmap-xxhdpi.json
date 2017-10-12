@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\02Android\新架构\wishland\app\src\main\jniLibs"/></dataSet><dataSet config="platform_wns"><source path="E:\02Android\新架构\wishland\app\src\platform_wns\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\02Android\新架构\wishland\app\src\debug\jniLibs"/></dataSet><dataSet config="platform_wnsDebug"><source path="E:\02Android\新架构\wishland\app\src\platform_wnsDebug\jniLibs"/></dataSet></merger>

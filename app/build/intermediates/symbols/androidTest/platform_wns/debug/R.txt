@@ -1,0 +1,7 @@
+int string AliUrl 0x7f020000
+int string AppName 0x7f020001
+int string DomainCode 0x7f020002
+int string MainApplicationIDPath 0x7f020003
+int string NewHtml 0x7f020004
+int string VersionCode 0x7f020005
+int string app_name 0x7f020006

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from product flavor: platform_wns -->
+    <string name="AliUrl" translatable="false">https://vns95777.com/api/</string>
+    <string name="AppName" translatable="false">威尼斯</string>
+    <string name="DomainCode" translatable="false">vns22</string>
+    <string name="MainApplicationIDPath" translatable="false">com.weinisi.www</string>
+    <string name="NewHtml" translatable="false">com.weinisi.www.html</string>
+    <string name="VersionCode" translatable="false">616b48fc847894d1008ae92baf745ab7</string>
+
+</resources>

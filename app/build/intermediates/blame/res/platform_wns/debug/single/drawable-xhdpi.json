@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\web_bottom_icon_5.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\platform_wns\\res\\drawable-xhdpi\\web_bottom_icon_5.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\home_popup_bg.9.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\home_popup_bg.9.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\web_bottom_icon_2.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\platform_wns\\res\\drawable-xhdpi\\web_bottom_icon_2.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\bg_welcome.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\platform_wns\\res\\drawable-xhdpi\\bg_welcome.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button_yellow_selector_pressed.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button_yellow_selector_pressed.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button_yellow_selector_normal.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button_yellow_selector_normal.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\buuton_circle_selector_normal.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\buuton_circle_selector_normal.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button_lucency_selector_pressed.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button_lucency_selector_pressed.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\web_bottom_icon_3.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\platform_wns\\res\\drawable-xhdpi\\web_bottom_icon_3.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button2_green_selector_normal.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button2_green_selector_normal.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button_lucency_selector_normal.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button_lucency_selector_normal.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button_green_selector_pressed.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button_green_selector_pressed.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\nav_bar_bg.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\nav_bar_bg.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\buuton_circle_selector_pressed.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\buuton_circle_selector_pressed.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button_violet_selector_pressed.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button_violet_selector_pressed.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button_gray_selector_pressed.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button_gray_selector_pressed.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button_gray_selector_normal.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button_gray_selector_normal.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button_green_selector_normal.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button_green_selector_normal.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\error.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\error.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button_violet_selector_normal.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button_violet_selector_normal.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\button2_green_selector_pressed.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\button2_green_selector_pressed.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\app_logo.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\drawable-xhdpi\\app_logo.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\web_bottom_icon_4.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\platform_wns\\res\\drawable-xhdpi\\web_bottom_icon_4.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\drawable-xhdpi\\web_bottom_icon_1.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\platform_wns\\res\\drawable-xhdpi\\web_bottom_icon_1.png"
+    }
+]

@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\alipayactivity.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\alipayactivity.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\fundsdealmoneylayout.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\fundsdealmoneylayout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\fundschilditem.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\fundschilditem.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\fundscathdeal_item.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\fundscathdeal_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_listitem.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_listitem.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\sixspaceslist_item.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\sixspaceslist_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\persionalaccountuserdata.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\persionalaccountuserdata.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\line_detail_item.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\line_detail_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\onlinepayment.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\onlinepayment.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_dialog_list.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_dialog_list.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\alipaytype.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\alipaytype.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\item_home_title.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\item_home_title.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\messagepage.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\messagepage.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\line_success.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\line_success.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_dialog_list_check.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_dialog_list_check.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\fundsmanagement.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\fundsmanagement.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\signinlayout.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\signinlayout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_dialog_progress.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\fundsgroupitem.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\fundsgroupitem.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\item_home.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\item_home.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\line_detailquestdata.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\line_detailquestdata.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_dialog_input.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_dialog_input.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\fundspopupitem.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\fundspopupitem.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\messagepageactivty.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\messagepageactivty.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_listitem_singlechoice.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\accountbind_item_list.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\accountbind_item_list.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\view_loading.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\longininlayout.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\longininlayout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\home_item.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\home_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\messagepages_common.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\messagepages_common.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\linegridviewitem.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\linegridviewitem.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\funds_popupwindow.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\funds_popupwindow.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\funds_deal_cathectic.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\funds_deal_cathectic.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\fundsatmmoney.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\fundsatmmoney.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\accountbind_bank.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\accountbind_bank.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\main_fanhui_top.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\main_fanhui_top.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\persionalaccountchangepass.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\persionalaccountchangepass.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\detailspagel.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\detailspagel.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\2555db7d2290a6ac54c9cfeedac41fdfe51d3293\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\upush_notification.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\PushSDK\\build\\intermediates\\bundles\\default\\res\\layout\\upush_notification.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\view_empty.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\item_content_titles.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\item_content_titles.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\lineconversionpage.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\lineconversionpage.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\fundsbacksave.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\fundsbacksave.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\linegridviewitem_to.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\linegridviewitem_to.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\accountbing.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\accountbing.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_dialog_basic.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_dialog_basic.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\activity_main.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_stub_actionbuttons.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\fundslinemessage.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\fundslinemessage.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\fundscathecticlayout.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\fundscathecticlayout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\main_top.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\main_top.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\view_expandable.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\view_expandable.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\funds_top_usersetting.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\funds_top_usersetting.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\view_nonetwork.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\view_nonetwork.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_dialog_input_check.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_dialog_input_check.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\more_item.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\personalaccountlayout.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\personalaccountlayout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_listitem_multichoice.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\view_error.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\view_error.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\sixspaceslistacitivity.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\sixspaceslistacitivity.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\messagelistitem.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\messagelistitem.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_dialog_custom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_dialog_custom.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\home_view_titles.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\home_view_titles.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\homemorelist.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\homemorelist.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\main_computer_bottom.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\main_computer_bottom.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\hint_text.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\hint_text.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_dialog_progress_indeterminate.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\item_home_game_menu.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\item_home_game_menu.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\main_top2.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\main_top2.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\paytype.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\paytype.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\messagedetailpages.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\messagedetailpages.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_dialog_basic_check.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_dialog_basic_check.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\homepage.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\homepage.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_stub_titleframe.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_stub_titleframe.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\leftpopuwindows.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\leftpopuwindows.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\activity_main2.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\content_view_titles.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\content_view_titles.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df966554ed87937591f989bb80a3efa46bb62eb8\\output\\res\\layout\\md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\detailquestdata.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\detailquestdata.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\02660c3a952517c1b350c21c4efb37ce89268825\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\461fced855d40645840d384977d65715621df447\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\paytext.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\paytext.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\hkactivity.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\hkactivity.xml"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\layout\\welcome.xml",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\layout\\welcome.xml"
+    }
+]

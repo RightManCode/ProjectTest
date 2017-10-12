@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\mipmap-xhdpi\\app_logo.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\platform_wns\\res\\mipmap-xhdpi\\app_logo.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\02Android\\新架构\\wishland\\app\\build\\intermediates\\res\\merged\\platform_wns\\debug\\mipmap-xhdpi\\title_logo.png",
+        "source": "E:\\02Android\\新架构\\wishland\\app\\src\\platform_wns\\res\\mipmap-xhdpi\\title_logo.png"
+    }
+]

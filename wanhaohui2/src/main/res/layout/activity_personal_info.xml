@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20px"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10px"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/personal_text1"
+                android:text="真实姓名" />
+
+            <TextView
+                style="@style/personal_text2"
+                android:text="何文贵" />
+
+        </LinearLayout>
+
+        <TextView style="@style/personal_text_hint" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10px"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/personal_text1"
+                android:text="手机号码" />
+
+            <TextView
+                style="@style/personal_text2"
+                android:text="ATM/现金" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20px"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text=">"
+                android:textColor="@color/text_color2" />
+        </LinearLayout>
+
+        <TextView style="@style/personal_text_hint" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10px"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/personal_text1"
+                android:text="电子邮箱" />
+
+            <TextView
+                style="@style/personal_text2"
+                android:text="中国工商银行" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20px"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text=">"
+                android:textColor="@color/text_color2" />
+        </LinearLayout>
+
+        <TextView style="@style/personal_text_hint" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10px"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/personal_text1"
+                android:text="微信" />
+
+            <TextView
+                style="@style/personal_text2"
+                android:text="广东省 广东市" />
+
+        </LinearLayout>
+
+        <TextView style="@style/personal_text_hint" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10px"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/personal_text1"
+                android:text="QQ" />
+
+            <TextView
+                style="@style/personal_text2"
+                android:layout_width="wrap_content"
+                android:text="2017年08月20日" />
+
+        </LinearLayout>
+
+        <TextView style="@style/personal_text_hint" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10px"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/personal_text1"
+                android:text="地址" />
+
+            <TextView
+                style="@style/personal_text2"
+                android:text="李四" />
+
+        </LinearLayout>
+
+        <TextView style="@style/personal_text_hint" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10px"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/personal_text1"
+                android:text="更改密码" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20px"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text=">"
+                android:textColor="@color/text_color2" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="5px" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20px"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="30px"
+            android:text="银行卡资料"
+            android:textColor="@color/text_color1" />
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30px"
+            android:layout_marginLeft="30px"
+            android:layout_marginRight="30px"
+            android:background="@drawable/bank_card1">
+
+        </FrameLayout>
+    </LinearLayout>
+
+</LinearLayout>

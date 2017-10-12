@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\libs\com.umeng.message_3.1.1a.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0bc9d5d99b2dadfae1ed54211b2e2b97df343305">
+        <dex dex="E:\02Android\新架构\wishland\app\build\intermediates\pre-dexed\platform_wns\debug\com.umeng.message_3.1.1a_332391b972b8ea37780ff827380ef146f7ed7ce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\libs\utdid4all-1.1.5.3_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1a4a47c44b68ea5c20e370d37f1779c57211aa68">
+        <dex dex="E:\02Android\新架构\wishland\app\build\intermediates\pre-dexed\platform_wns\debug\utdid4all-1.1.5.3_proguard_7cdf76f67773492897a773cbe4e126c301daf265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\libs\alicloud-android-sdk-httpdns-1.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d61bb0f23861e5b86d4308a9ed2a4751e95fe03">
+        <dex dex="E:\02Android\新架构\wishland\app\build\intermediates\pre-dexed\platform_wns\debug\alicloud-android-sdk-httpdns-1.0.7_21e3a3bafb95804dd971db51af445e73d67f0f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\02Android\新架构\wishland\PushSDK\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a908a9ecf77c0bb9ef606b0aa7a0c0dc0612eb02">
+        <dex dex="E:\02Android\新架构\wishland\app\build\intermediates\pre-dexed\platform_wns\debug\classes_a041e04b9bb3c0e70b17a2e68abd8045ede066f0.jar" />
+    </item>
+
+</items>

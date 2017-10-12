@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\02Android\新架构\wishland\PushSDK\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\02Android\新架构\wishland\PushSDK\build-types\debug\shaders"/></dataSet></merger>

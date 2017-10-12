@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/refreshView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="true"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="450px">
+
+                        <com.youth.banner.Banner
+                            android:id="@+id/home_banner"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:circle_paddingbuttom="85px"
+                            app:indicator_margin="8dp" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom"
+                            android:orientation="horizontal">
+
+                            <com.wishland.www.wanhaohui2.view.customlayout.MarqueeTextView
+                                android:id="@+id/home_textvhiew_pmd"
+                                android:layout_width="match_parent"
+                                android:layout_height="50px"
+                                android:background="#800A0A0A"
+                                android:drawableLeft="@drawable/home_notice"
+                                android:drawablePadding="15px"
+                                android:ellipsize="marquee"
+                                android:gravity="center_vertical"
+                                android:marqueeRepeatLimit="marquee_forever"
+                                android:paddingLeft="10px"
+                                android:singleLine="true"
+                                android:text="撒发生的；反馈；啊老师的看法；开始的；疯啦开始的；反馈卡十分大方开朗aaaaaaaaaaaa"
+                                android:textColor="@color/white"
+                                android:textSize="24px" />
+
+                        </LinearLayout>
+                    </FrameLayout>
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/ll_home_game"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@color/white" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30px"
+                        android:background="@color/white"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:layout_width="25dp"
+                            android:layout_height="25dp"
+                            android:layout_margin="10dp"
+                            android:src="@drawable/collection_star" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:text="@string/my_collection"
+                            android:textColor="@color/text_color6"
+                            android:textSize="18sp" />
+                    </LinearLayout>
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/my_collection"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@color/white" />
+                </LinearLayout>
+            </ScrollView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+</com.zhy.autolayout.AutoFrameLayout>

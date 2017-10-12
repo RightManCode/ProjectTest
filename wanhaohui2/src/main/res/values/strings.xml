@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">wanhaohui2</string>
+    <string name="home">首页</string>
+    <string name="discounts">优惠</string>
+    <string name="savings">存款</string>
+    <string name="line">额度转换</string>
+    <string name="mind">我的</string>
+    <string name="my_collection">我的收藏</string>
+    <string name="login">点击登录</string>
+
+    <style name="mainradiobutton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">@color/text_color1</item>
+        <item name="android:textSize">25px</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:padding">5px</item>
+        <item name="android:gravity">center</item>
+        <item name="android:drawablePadding">6px</item>
+    </style>
+
+</resources>
